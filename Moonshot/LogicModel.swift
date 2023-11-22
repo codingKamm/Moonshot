@@ -20,3 +20,13 @@ struct CustomText: View {
         self.text = text
     }
 }
+
+struct User: Codable {
+    let name: String
+    let address: String
+}
+
+struct Address: Codable {
+    let street: String
+    let city: String 
+}
