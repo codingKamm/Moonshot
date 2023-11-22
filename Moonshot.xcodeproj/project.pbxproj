@@ -17,6 +17,7 @@
 		69CC2C082B0D661A00B75CCB /* ResizeImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C072B0D661A00B75CCB /* ResizeImageView.swift */; };
 		69CC2C0A2B0D6FEF00B75CCB /* ScrollingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C092B0D6FEF00B75CCB /* ScrollingView.swift */; };
 		69CC2C0C2B0D721900B75CCB /* LogicModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C0B2B0D721900B75CCB /* LogicModel.swift */; };
+		69CC2C0E2B0D7C2900B75CCB /* DecodedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C0D2B0D7C2900B75CCB /* DecodedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		69CC2C072B0D661A00B75CCB /* ResizeImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResizeImageView.swift; sourceTree = "<group>"; };
 		69CC2C092B0D6FEF00B75CCB /* ScrollingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollingView.swift; sourceTree = "<group>"; };
 		69CC2C0B2B0D721900B75CCB /* LogicModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogicModel.swift; sourceTree = "<group>"; };
+		69CC2C0D2B0D7C2900B75CCB /* DecodedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecodedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				69CC2C092B0D6FEF00B75CCB /* ScrollingView.swift */,
 				69CC2C0B2B0D721900B75CCB /* LogicModel.swift */,
 				69CC2BDF2B0CF5CA00B75CCB /* ContentView.swift */,
+				69CC2C0D2B0D7C2900B75CCB /* DecodedView.swift */,
 				69CC2C072B0D661A00B75CCB /* ResizeImageView.swift */,
 				69CC2BE12B0CF5CC00B75CCB /* Assets.xcassets */,
 				69CC2BE32B0CF5CC00B75CCB /* Preview Content */,
@@ -269,6 +272,7 @@
 				69CC2C0C2B0D721900B75CCB /* LogicModel.swift in Sources */,
 				69CC2C082B0D661A00B75CCB /* ResizeImageView.swift in Sources */,
 				69CC2C0A2B0D6FEF00B75CCB /* ScrollingView.swift in Sources */,
+				69CC2C0E2B0D7C2900B75CCB /* DecodedView.swift in Sources */,
 				69CC2BE02B0CF5CA00B75CCB /* ContentView.swift in Sources */,
 				69CC2BDE2B0CF5CA00B75CCB /* MoonshotApp.swift in Sources */,
 			);
