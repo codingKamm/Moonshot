@@ -25,6 +25,8 @@
 		69CC2C1A2B11420D00B75CCB /* Astronaut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C192B11420D00B75CCB /* Astronaut.swift */; };
 		69CC2C1C2B11428400B75CCB /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C1B2B11428400B75CCB /* Bundle-Decodable.swift */; };
 		69CC2C1E2B11437A00B75CCB /* Mission.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C1D2B11437A00B75CCB /* Mission.swift */; };
+		69CC2C202B11465A00B75CCB /* MissionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C1F2B11465A00B75CCB /* MissionView.swift */; };
+		69CC2C222B1151BD00B75CCB /* AstronautView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CC2C212B1151BD00B75CCB /* AstronautView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +68,8 @@
 		69CC2C192B11420D00B75CCB /* Astronaut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Astronaut.swift; sourceTree = "<group>"; };
 		69CC2C1B2B11428400B75CCB /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		69CC2C1D2B11437A00B75CCB /* Mission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mission.swift; sourceTree = "<group>"; };
+		69CC2C1F2B11465A00B75CCB /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
+		69CC2C212B1151BD00B75CCB /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +123,8 @@
 				69CC2BDD2B0CF5CA00B75CCB /* MoonshotApp.swift */,
 				69CC2C092B0D6FEF00B75CCB /* ScrollingView.swift */,
 				69CC2C0B2B0D721900B75CCB /* LogicModel.swift */,
+				69CC2C1F2B11465A00B75CCB /* MissionView.swift */,
+				69CC2C212B1151BD00B75CCB /* AstronautView.swift */,
 				69CC2BDF2B0CF5CA00B75CCB /* ContentView.swift */,
 				69CC2C192B11420D00B75CCB /* Astronaut.swift */,
 				69CC2C1B2B11428400B75CCB /* Bundle-Decodable.swift */,
@@ -297,9 +303,11 @@
 				69CC2C0C2B0D721900B75CCB /* LogicModel.swift in Sources */,
 				69CC2C082B0D661A00B75CCB /* ResizeImageView.swift in Sources */,
 				69CC2C122B0FE24300B75CCB /* NavigationView.swift in Sources */,
+				69CC2C202B11465A00B75CCB /* MissionView.swift in Sources */,
 				69CC2C0A2B0D6FEF00B75CCB /* ScrollingView.swift in Sources */,
 				69CC2C102B0FDAFA00B75CCB /* GridView.swift in Sources */,
 				69CC2C0E2B0D7C2900B75CCB /* DecodedView.swift in Sources */,
+				69CC2C222B1151BD00B75CCB /* AstronautView.swift in Sources */,
 				69CC2C1C2B11428400B75CCB /* Bundle-Decodable.swift in Sources */,
 				69CC2BE02B0CF5CA00B75CCB /* ContentView.swift in Sources */,
 				69CC2BDE2B0CF5CA00B75CCB /* MoonshotApp.swift in Sources */,
