@@ -19,7 +19,7 @@ struct ContentView: View {
                 LazyVGrid(columns: columns) {
                     ForEach(missions) { mission in
                         NavigationLink {
-                            Text("Details View")
+                            MissionView(astronauts: astronauts, mission: mission)
                         } label: {
                             VStack {
                                 Image(mission.image)
